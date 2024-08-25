@@ -14,7 +14,6 @@ class Desktop
     }
 }
 
-
 class Developer
 {
     public void devApp(Laptop lap)
